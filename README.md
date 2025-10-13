@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="m6Z1jsLFqvuMjSiWzCUmmphZQm0jVasp-n1sPXD6kbM" />
+
 # 🌍 IB Computer Science 2025 – AI, Databases and Python Programming Journey
 
 <!-- Badges -->

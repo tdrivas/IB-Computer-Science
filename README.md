@@ -1,5 +1,18 @@
 # 🌍 IB Computer Science 2025 – AI, Databases and Python Programming Journey
 
+<!-- Badges -->
+[![Stars](https://img.shields.io/github/stars/tdrivas/IB-Computer-Science?style=social)](https://github.com/tdrivas/IB-Computer-Science/stargazers)
+[![Issues](https://img.shields.io/github/issues/tdrivas/IB-Computer-Science)](https://github.com/tdrivas/IB-Computer-Science/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/tdrivas/IB-Computer-Science)](https://github.com/tdrivas/IB-Computer-Science/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tdrivas/IB-Computer-Science/pulls)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/IB-Computer-Science/blob/main/01_python_basics/02_python_basics.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USER/IB-Computer-Science/HEAD)
+[![Build](https://img.shields.io/github/actions/workflow/status/tdrivas/IB-Computer-Science/tests.yml?label=CI)](https://github.com/USER/IB-Computer-Science/actions)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftdrivas.github.io%2FIB-Computer-Science)](https://tdrivas.github.io/IB-Computer-Science)
+
+
 Welcome to the **IB Computer Science (new syllabus 2025)** Python learning repository!  
 This repo guides students step-by-step from **zero programming experience** to building **fully functional software solutions** that meet the **Internal Assessment (IA)** and **Paper 1/2** expectations.
 

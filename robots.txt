@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tdrivas.github.io/IB-Computer-Science/sitemap.xml

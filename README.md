@@ -1,4 +1,4 @@
-# 🌍 IB Computer Science 2025 – Python Programming Journey
+# 🌍 IB Computer Science 2025 – AI, Databases and Python Programming Journey
 
 Welcome to the **IB Computer Science (new syllabus 2025)** Python learning repository!  
 This repo guides students step-by-step from **zero programming experience** to building **fully functional software solutions** that meet the **Internal Assessment (IA)** and **Paper 1/2** expectations.

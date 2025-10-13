@@ -67,9 +67,7 @@ Each lesson aligns with **Assessment Objectives AO1–AO4**:
 ---
 
 ## 🧠 Keywords for SEO
-`ib computer science`, `ib computer science 2025`, `ib cs syllabus`, `python ib computer science`, `ib cs ia`,  
-`ib cs paper 1`, `ib cs paper 2`, `ib dp computer science`, `ib coding`, `python for ib students`,  
-`computational thinking ib`, `programming and development ib`, `global impact ib`, `ai in ib computer science`
+`ib computer science`, `ib computer science 2025`, `ib cs syllabus`, `python ib computer science`, `ib cs ia`, `ib cs paper 1`, `ib cs paper 2`, `ib dp computer science`, `ib coding`, `python for ib students`, `computational thinking ib`, `programming and development ib`, `global impact ib`, `ai in ib computer science`
 
 ---
 
@@ -86,14 +84,12 @@ Each lesson aligns with **Assessment Objectives AO1–AO4**:
 
 ## 🧭 About the Author
 
-Created by **Thanassis Drivas**, educator and data engineer,  
-combining over 15 years of **IB Computer Science teaching** and **real-world programming experience** in **Earth Observation and AI**.
+Created by **Thanassis Drivas**, educator and data engineer, combining over 15 years of **IB Computer Science teaching** and **real-world programming experience** in **Earth Observation and AI**.
 
 ---
 
 ## 🪪 License
 
-This content is distributed under a **Creative Commons Attribution-NonCommercial 4.0 License**.  
-You can freely use it for teaching, learning, and personal projects.
+This content is distributed under a **Creative Commons Attribution-NonCommercial 4.0 License**. You can freely use it for teaching, learning, and personal projects.
 
 ---

@@ -38,7 +38,7 @@ This repository helps you:
 
 | Folder | Theme | What You’ll Learn |
 |--------|--------|-------------------|
-| [01_python_basics](01 - Programming Foundations/) | 🐍 Programming Foundations | Variables, loops, decisions, functions |
+| [01 – Programming Foundations](01%20-%20Programming%20Foundations/) | 🐍 Programming Foundations | Variables, loops, decisions, functions |
 | `02_data_structures` | 📚 Data Representation | Lists, tuples, dictionaries, strings |
 | `03_oop` | 🧱 Modular Design | Classes, inheritance, encapsulation |
 | `04_algorithms` | ⚙️ Computational Thinking | Searching, sorting, recursion, efficiency |

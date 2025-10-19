@@ -1,4 +1,5 @@
-title: "IB Computer Science 2025"
+title: "IB Computer Science 2026"
 description: "AI, Databases and Python Programming Journey"
-theme: minima
+theme: jekyll-theme-cayman
 markdown: kramdown
+baseurl: "/IB-Computer-Science" 

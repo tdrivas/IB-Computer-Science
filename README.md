@@ -21,8 +21,6 @@ This repo guides students step-by-step from **zero programming experience** to b
 👩‍💻 **Designed for students and teachers** following the *IB Diploma Programme Computer Science* curriculum (first exams May 2027).  
 🧠 **Built with understanding in mind:** every notebook, exercise, and project encourages curiosity, reasoning, and reflection — not memorization.
 
----
-
 ## 🎯 Learning Philosophy
 
 Programming is not just about typing code — it’s about **thinking clearly**.  
@@ -31,8 +29,6 @@ This repository helps you:
 - Solve real-world problems using **Python** and **computational thinking**.
 - Build confidence for **Paper 1**, **Paper 2**, and your **Internal Assessment (IA)**.
 - Connect coding to **AI, data science, and ethics** — topics central to the new IB syllabus.
-
----
 
 ## 🧩 Repository Roadmap
 
@@ -49,8 +45,6 @@ This repository helps you:
 | `09_machine_learning_intro` | 🤖 Emerging Tech | Intro to AI, ML, and ethical implications |
 | `10_internal_assessment` | 💡 IB IA Toolkit | Full IA examples, templates, and checklists |
 
----
-
 ## 🔑 IB Alignment
 
 - **Theme 1:** Computational Thinking Practices → Units 1–4  
@@ -64,8 +58,6 @@ Each lesson aligns with **Assessment Objectives AO1–AO4**:
 - AO3: Analyse & Evaluate
 - AO4: Design & Develop
 
----
-
 ## 🧰 How to Use
 
 1. **Start** from `01_python_basics` and move forward sequentially.  
@@ -75,16 +67,12 @@ Each lesson aligns with **Assessment Objectives AO1–AO4**:
 
 > 💡 Tip: Each folder includes a `README.md` written in student-friendly language to guide your journey.
 
----
-
 ## 🧭 About the Author
 
 Created by **Thanassis Drivas**, educator and data engineer, combining over 15 years of **IB Computer Science teaching** and **real-world programming experience** in **Earth Observation and AI**.
 
----
 
 ## 🪪 License
 
 This content is distributed under a **Creative Commons Attribution-NonCommercial 4.0 License**. You can freely use it for teaching, learning, and personal projects.
 
----

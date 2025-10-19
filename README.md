@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="m6Z1jsLFqvuMjSiWzCUmmphZQm0jVasp-n1sPXD6kbM" />
 
-# 🌍 IB Computer Science 2025 – AI, Databases and Python Programming Journey
+# 🌍 IB Computer Science 2026 – AI, Databases and Python Programming Journey
 
 <!-- Badges -->
 [![Stars](https://img.shields.io/github/stars/tdrivas/IB-Computer-Science?style=social)](https://github.com/tdrivas/IB-Computer-Science/stargazers)
@@ -15,10 +15,10 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftdrivas.github.io%2FIB-Computer-Science)](https://tdrivas.github.io/IB-Computer-Science)
 
 
-Welcome to the **IB Computer Science (new syllabus 2025)** Python learning repository!  
+Welcome to the **IB Computer Science (new syllabus 2026)** Python, AI and Database learning repository!  
 This repo guides students step-by-step from **zero programming experience** to building **fully functional software solutions** that meet the **Internal Assessment (IA)** and **Paper 1/2** expectations.
 
-👩‍💻 **Designed for students and teachers** following the *IB Diploma Programme Computer Science* curriculum (first exams May 2025).  
+👩‍💻 **Designed for students and teachers** following the *IB Diploma Programme Computer Science* curriculum (first exams May 2026).  
 🧠 **Built with understanding in mind:** every notebook, exercise, and project encourages curiosity, reasoning, and reflection — not memorization.
 
 ---
@@ -63,11 +63,6 @@ Each lesson aligns with **Assessment Objectives AO1–AO4**:
 - AO2: Apply
 - AO3: Analyse & Evaluate
 - AO4: Design & Develop
-
----
-
-## 🧠 Keywords for SEO
-`ib computer science`, `ib computer science 2025`, `ib cs syllabus`, `python ib computer science`, `ib cs ia`, `ib cs paper 1`, `ib cs paper 2`, `ib dp computer science`, `ib coding`, `python for ib students`, `computational thinking ib`, `programming and development ib`, `global impact ib`, `ai in ib computer science`
 
 ---
 

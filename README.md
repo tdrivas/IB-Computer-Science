@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="m6Z1jsLFqvuMjSiWzCUmmphZQm0jVasp-n1sPXD6kbM" />
 
-# 🌍 IB Computer Science 2026 – AI, Databases and Python Programming Journey
+# 🌍 IB Computer Science 2025 – AI, Databases and Python Programming Journey
 
 <!-- Badges -->
 [![Stars](https://img.shields.io/github/stars/tdrivas/IB-Computer-Science?style=social)](https://github.com/tdrivas/IB-Computer-Science/stargazers)
@@ -15,10 +15,10 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftdrivas.github.io%2FIB-Computer-Science)](https://tdrivas.github.io/IB-Computer-Science)
 
 
-Welcome to the **IB Computer Science (new syllabus 2026)** Python, AI and Database learning repository!  
+Welcome to the **IB Computer Science (new syllabus 2025)** Python, AI and Database learning repository!  
 This repo guides students step-by-step from **zero programming experience** to building **fully functional software solutions** that meet the **Internal Assessment (IA)** and **Paper 1/2** expectations.
 
-👩‍💻 **Designed for students and teachers** following the *IB Diploma Programme Computer Science* curriculum (first exams May 2026).  
+👩‍💻 **Designed for students and teachers** following the *IB Diploma Programme Computer Science* curriculum (first exams May 2027).  
 🧠 **Built with understanding in mind:** every notebook, exercise, and project encourages curiosity, reasoning, and reflection — not memorization.
 
 ---
